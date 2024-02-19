@@ -16,15 +16,15 @@
 <br/><br/><br/>
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AromalShaji&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](AromalShaji)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AromalShaji&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](Ashwin-Anil)
 <br/>
 
 ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
 
-![APS's github stats](https://github-readme-stats.vercel.app/api?username=AromalShaji&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![APS's github stats](https://github-readme-stats.vercel.app/api?username=Ashwin-Anil&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 <br/>
-<img src = "https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/codyfire.gif" width=300px />
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 <br/>
 
