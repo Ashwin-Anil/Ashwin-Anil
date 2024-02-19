@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c70039&center=true&vCenter=true&width=435&lines=Hi+there%2C+AROMAL...;FOOTBALL...;CODE...;HAHAHA!...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c70039&center=true&vCenter=true&width=435&lines=Hi+there%2C+Ashwin_M_A...;Software_Developer...)](https://git.io/typing-svg)
 <!--
 <h2 align="center">A R O M A L ...<img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/waving.gif" alt="waving.gif" height=25px width=27px></h2>
 
