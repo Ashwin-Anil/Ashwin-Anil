@@ -14,10 +14,7 @@
 [<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.java.com/)
 [<img align="left" alt="TensorFlow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](https://www.tensorflow.org/)
 <br/><br/><br/>
-### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashwin-Anil&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](Ashwin-Anil)
-<br/>
 
 ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
 
