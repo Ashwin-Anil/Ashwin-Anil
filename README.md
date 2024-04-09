@@ -14,18 +14,6 @@
 <br/><br/><br/>
 
 
-### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
 
-![APS's github stats](https://github-readme-stats.vercel.app/api?username=Ashwin-Anil&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
-<br/>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/liginthomasck/count.svg" />
-</p>
-
-<h3 align="center">Show some ❤ by <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/star.gif" height=25px width=25px> some repositories! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></h3>
