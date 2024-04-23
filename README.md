@@ -25,9 +25,10 @@
   <img src="https://img.shields.io/badge/FORKS-15K-blue"  />
   <img src="https://img.shields.io/badge/npm-v.0.21.0-red"  />
   <img src="https://img.shields.io/badge/LICENSE-MIT-green"  />
-  
+
 
   [![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwin-Anil&theme=radical&hide_border=true)
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Anil)](https://github.com/Ashwin-Anil/readme-components-github)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Anil&layout=compact&theme=vision-friendly-dark)](https://github.com/Ashwin-Anil/github-readme-stats)
