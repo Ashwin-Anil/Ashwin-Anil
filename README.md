@@ -9,23 +9,17 @@
 
 
 
-
-  [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)
-  [<img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>](https://www.djangoproject.com/)
-  [<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/40/000000/php-logo.png"/>](https://www.php.net/)
-  [<img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>](https://laravel.com/)
-  [<img align="left" alt="Blade" width="26px" src="https://laravel.com/img/favicon/favicon-32x32.png"/>](https://laravel.com/)
-  [<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>](https://getbootstrap.com/)
-  [<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.java.com/)
-  [<img align="left" alt="TensorFlow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](https://www.tensorflow.org/)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STARS-20K-green"  />
-  <img src="https://img.shields.io/badge/FORKS-15K-blue"  />
-  <img src="https://img.shields.io/badge/npm-v.0.21.0-red"  />
-  <img src="https://img.shields.io/badge/LICENSE-MIT-green"  />
-</p>
+<div align="center">
+  <img align="center" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img align="center" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img align="center" alt="PHP" width="26px" src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
+  <img align="center" alt="Laravel" width="26px" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+  <img align="center" alt="Blade" width="26px" src="https://laravel.com/img/favicon/favicon-32x32.png"/>
+  <img align="center" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img align="center" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img align="center" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img align="center" alt="TensorFlow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+</div>
 
 
 ## Developer stats
