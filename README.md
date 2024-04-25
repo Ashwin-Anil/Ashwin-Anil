@@ -23,10 +23,7 @@
 
 
 ## Developer stats
-&nbsp;[![](https://img.shields.io/github/followers/TiagoRG?style=flat&color=blue&label=Followers&logo=github)](https://github.com/TiagoRG)
-![Profile Views](https://komarev.com/ghpvc/?username=TiagoRG&style=flat&color=blue)
-[![wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
-[![Neovim User](https://img.shields.io/static/v1?message=Main%20Editor&logo=neovim&labelColor=5d5d5d&color=57a143&label=Neovim)](https://github.com/TiagoRG/dotfiles/tree/main/.config/nvim)
+
 <br>
 <a href="https://github.com/TiagoRG">
   <img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/languages.svg#gh-dark-mode-only" />
