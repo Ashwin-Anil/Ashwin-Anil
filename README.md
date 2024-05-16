@@ -25,11 +25,7 @@
 
 ## Developer stats
 
-<br>
-<a href="https://github.com/TiagoRG">
-  <img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Anil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-Anil&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)  
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-Anil&custom_title=Ashwin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
